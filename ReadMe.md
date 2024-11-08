@@ -2,6 +2,9 @@
 
 This project supports compiling jobs and routines from a given project in DataStage On-Premise.
 
+## Architecture Map
+![compile](https://github.com/user-attachments/assets/3f183336-2d9f-44ae-9f57-b9494fc37054)
+
 ## Supported ETL Versions
 - DataStage Infosphere 11.7
 - DataStage Infosphere 11.5
